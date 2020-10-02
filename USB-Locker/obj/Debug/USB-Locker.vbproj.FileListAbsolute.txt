@@ -1,0 +1,12 @@
+C:\Users\alexa\source\repos\USB-Locker\USB-Locker\bin\Debug\USB-Locker.exe.config
+C:\Users\alexa\source\repos\USB-Locker\USB-Locker\bin\Debug\USB-Locker.exe
+C:\Users\alexa\source\repos\USB-Locker\USB-Locker\bin\Debug\USB-Locker.pdb
+C:\Users\alexa\source\repos\USB-Locker\USB-Locker\bin\Debug\USB-Locker.xml
+C:\Users\alexa\source\repos\USB-Locker\USB-Locker\obj\Debug\USB-Locker.vbprojAssemblyReference.cache
+C:\Users\alexa\source\repos\USB-Locker\USB-Locker\obj\Debug\USB_Locker.Form1.resources
+C:\Users\alexa\source\repos\USB-Locker\USB-Locker\obj\Debug\USB_Locker.Resources.resources
+C:\Users\alexa\source\repos\USB-Locker\USB-Locker\obj\Debug\USB-Locker.vbproj.GenerateResource.cache
+C:\Users\alexa\source\repos\USB-Locker\USB-Locker\obj\Debug\USB-Locker.vbproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\USB-Locker\USB-Locker\obj\Debug\USB-Locker.exe
+C:\Users\alexa\source\repos\USB-Locker\USB-Locker\obj\Debug\USB-Locker.xml
+C:\Users\alexa\source\repos\USB-Locker\USB-Locker\obj\Debug\USB-Locker.pdb
